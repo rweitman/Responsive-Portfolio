@@ -10,7 +10,7 @@ The Responsive Portfolio is an altered version of the "Basic Portfolio." The Res
 
 
 Basic Portfolio:
-[a link](https://github.com/rweitman/Basic-Portfolio)
+[Click Here to Access](https://github.com/rweitman/Basic-Portfolio)
 
 
 A Basic Portfolio that has three pages. Each page has three links that navigate between those pages and a header with the name.
